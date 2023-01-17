@@ -1,0 +1,14 @@
+{
+  "eventId": "69d20007-ccb7-464c-8206-029f73fab511",
+  "timestamp": "2021-04-18T13:22:24.872766Z",
+  "resourceUpdate": {
+    "name": "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEvo5ks2yhYAo9D8a0V-BVhI2qrOsx35LlCyxnsIjayu7JCKmuun-lq-W1VUshI7b_STNeJP55tG8sLYc2eyNhDxpw",
+    "traits": {
+      "sdm.devices.traits.ThermostatHvac": {
+        "status": "OFF"
+      }
+    }
+  },
+  "userId": "AVPHwEseIbXjtxUtwjGaVS7rZFqZt3AuD1sGNxSv2i_D",
+  "resourceGroup": ["enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEvo5ks2yhYAo9D8a0V-BVhI2qrOsx35LlCyxnsIjayu7JCKmuun-lq-W1VUshI7b_STNeJP55tG8sLYc2eyNhDxpw"]
+}

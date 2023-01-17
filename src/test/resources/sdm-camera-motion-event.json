@@ -1,0 +1,15 @@
+{
+  "eventId": "0eba2f69-203b-4cab-9d1c-9b984dac9c2d",
+  "timestamp": "2021-04-14T05:37:21.575Z",
+  "resourceUpdate": {
+    "name": "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEs3PW_ufEm1HEuf-ae8nvaEtQcKxEz6Bu49Djd2I9XULjHp49rMUakllK-hX496hB1wUHwNnZw6AVZBtZRjheSTtA",
+    "events": {
+      "sdm.devices.events.CameraMotion.Motion": {
+        "eventSessionId": "AVPHwEvq3pLNztoIYvSljVDOfzqR2luJvpT_9pbtoHnYN66zPAxBjgoipCmqPYLdjiieHAJtCsQv-57SyWX1bKpJoLUs3A",
+        "eventId": "CiQA2vuxr-9URIjRYjbMDBNvVkCF7BcFbYTWXSqYj6mdCnujMnsSvgEAq-xCHmrvJ_ITp55Yn0M8BIHAsL_3-h2wCDU03eDzEsqiSwC77_BQJvq0Js3uuecpvOn0moLN7BrFVQ4vnFjy-DQuJdUGWQXw_F_ZZjrqOeuYdd8k9o5Cu2xpd19Az8xkbSSjMbU695M4BZKtVOokSjGf1qrtQ-FbxTqAGzwFobs3uY7_8sfowxQyCHAO0VBhwn-WvZD7sr0XcHdLGAwdyOvzq72r8_fQG_M2ed4gMlVoduROfDk3QyMah_GV"
+      }
+    }
+  },
+  "userId": "AVPHwEseIbXjtxUtwjGaVS7rZFqZt3AuD1sGNxSv2i_D",
+  "resourceGroup": ["enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEs3PW_ufEm1HEuf-ae8nvaEtQcKxEz6Bu49Djd2I9XULjHp49rMUakllK-hX496hB1wUHwNnZw6AVZBtZRjheSTtA"]
+}

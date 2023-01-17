@@ -1,0 +1,11 @@
+gcloud functions deploy nest-thermostat-logger \
+--entry-point functions.NestThermostatLogger \
+--runtime java11 \
+--memory 512MB \
+--trigger-http \
+--allow-unauthenticated \
+--max-instances=1 \
+--timeout=30 \
+--set-env-vars clientId=
+--set-env-vars clientSecret=
+--set-env-vars refreshToken=

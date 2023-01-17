@@ -1,0 +1,14 @@
+{
+  "eventId": "46431857-c9d3-4f94-bc29-29225d4e41d9",
+  "timestamp": "2021-04-14T13:15:29.203659Z",
+  "resourceUpdate": {
+    "name": "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEvo5ks2yhYAo9D8a0V-BVhI2qrOsx35LlCyxnsIjayu7JCKmuun-lq-W1VUshI7b_STNeJP55tG8sLYc2eyNhDxpw",
+    "traits": {
+      "sdm.devices.traits.Humidity": {
+        "ambientHumidityPercent": 41.0
+      }
+    }
+  },
+  "userId": "AVPHwEseIbXjtxUtwjGaVS7rZFqZt3AuD1sGNxSv2i_D",
+  "resourceGroup": ["enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEvo5ks2yhYAo9D8a0V-BVhI2qrOsx35LlCyxnsIjayu7JCKmuun-lq-W1VUshI7b_STNeJP55tG8sLYc2eyNhDxpw"]
+}

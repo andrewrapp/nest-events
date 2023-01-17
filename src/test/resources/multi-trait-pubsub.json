@@ -1,0 +1,24 @@
+{
+  "eventId": "f62bdadc-cdb7-4cbe-ac9a-116735ab1846",
+  "timestamp": "2021-04-23T03:16:25.839402Z",
+  "resourceUpdate": {
+    "name": "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEvo5ks2yhYAo9D8a0V-BVhI2qrOsx35LlCyxnsIjayu7JCKmuun-lq-W1VUshI7b_STNeJP55tG8sLYc2eyNhDxpw",
+    "traits": {
+      "sdm.devices.traits.ThermostatMode": {
+        "mode": "HEAT",
+        "availableModes": ["HEAT", "COOL", "HEATCOOL", "OFF"]
+      },
+      "sdm.devices.traits.ThermostatEco": {
+        "availableModes": ["OFF", "MANUAL_ECO"],
+        "mode": "OFF",
+        "heatCelsius": 4.4444427,
+        "coolCelsius": 24.444443
+      },
+      "sdm.devices.traits.ThermostatTemperatureSetpoint": {
+        "heatCelsius": 15.555527
+      }
+    }
+  },
+  "userId": "AVPHwEseIbXjtxUtwjGaVS7rZFqZt3AuD1sGNxSv2i_D",
+  "resourceGroup": ["enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEvo5ks2yhYAo9D8a0V-BVhI2qrOsx35LlCyxnsIjayu7JCKmuun-lq-W1VUshI7b_STNeJP55tG8sLYc2eyNhDxpw"]
+}

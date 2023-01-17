@@ -1,0 +1,15 @@
+{
+  "eventId": "cd76233d-e7a4-45d7-881a-40f90c0dbc9e",
+  "timestamp": "2021-04-07T22:45:53.418Z",
+  "resourceUpdate": {
+    "name": "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEs3PW_ufEm1HEuf-ae8nvaEtQcKxEz6Bu49Djd2I9XULjHp49rMUakllK-hX496hB1wUHwNnZw6AVZBtZRjheSTtA",
+    "events": {
+      "sdm.devices.events.DoorbellChime.Chime": {
+        "eventSessionId": "AVPHwEuSwxbTT0K64ePseiRcumCXaknaJEj2Zd5Y4WkQ-JBYjVHFediLR5w2ngRrHFA09x4Yk6fcdOQVDJnH9YawKAMChw",
+        "eventId": "CiQA2vuxr5W_qMbA9i2DX2oxjw3VpVKKbcbHkeQMMf_WaMFB7ZoSjQEAGwRlteZZzLPd8sgtUaJIA2vWy9xur-Nto83BsWq370Ziq3X8YsyA_hhkEN-cDpQf6L58UX8_2LklRGltWihD0xr4juGqn8DAp5Kzk7BDiHVPpj9_9nIzPl9-plmkfqeOccSWR_wsvKT0nrOcnAw9jIO4ojWr3yFJ1cMenLSTlnO6ywCmTdb2oAWmT4s"
+      }
+    }
+  },
+  "userId": "AVPHwEseIbXjtxUtwjGaVS7rZFqZt3AuD1sGNxSv2i_D",
+  "resourceGroup": ["enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEs3PW_ufEm1HEuf-ae8nvaEtQcKxEz6Bu49Djd2I9XULjHp49rMUakllK-hX496hB1wUHwNnZw6AVZBtZRjheSTtA"]
+}

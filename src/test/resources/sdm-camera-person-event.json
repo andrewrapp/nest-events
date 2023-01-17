@@ -1,0 +1,17 @@
+{
+  "eventId": "e488e228-9a8b-4e59-b23c-0e721e02861a",
+  "timestamp": "2021-04-18T23:07:23.230Z",
+  "resourceUpdate": {
+    "name": "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEs3PW_ufEm1HEuf-ae8nvaEtQcKxEz6Bu49Djd2I9XULjHp49rMUakllK-hX496hB1wUHwNnZw6AVZBtZRjheSTtA",
+    "events": {
+      "sdm.devices.events.CameraPerson.Person": {
+        "eventSessionId": "AVPHwEtW4m8pSUh6weBjpLq2ViGoj798C8kjeAGP3974pdMAH7h0TSTjLdoGiD7y8G-VX8OMrGByfNZyuvhVvLHBDnKL4Q",
+        "eventId": "CiQA2vuxr-ilCPX3Rahts5UF2mgwJ-Gcz51ZlAcAxV2EA7wHbR8SwgEAq-xCHpkzVUj4nKrKOSXv0oSIcWmeGgLlj9fT6TfqpoA4gPqUhsGFFKzUwUd8JsRnT2kiRILtWAZijjFPlx7UEnfJ9ByIfVrJFt-W__D9beg86BzY5xY0nLyyBllLHFDjkxBurCisAOoTuhAtMpml2X-LBzU35T57hBDivpeb014oZmtAwVbDWN3Fmy2FuZvyCq7tOJpfCgd8kcMmNypYRKE7TYl4a4hjQ_b1Zjv3p4vw-u5qukJ7g8jSS8l-WMo5qQ"
+      }
+    }
+  },
+  "userId": "AVPHwEseIbXjtxUtwjGaVS7rZFqZt3AuD1sGNxSv2i_D",
+  "resourceGroup": [
+    "enterprises/0f9309d0-c49f-4bc7-ad34-f95106965b2b/devices/AVPHwEs3PW_ufEm1HEuf-ae8nvaEtQcKxEz6Bu49Djd2I9XULjHp49rMUakllK-hX496hB1wUHwNnZw6AVZBtZRjheSTtA"
+  ]
+}
